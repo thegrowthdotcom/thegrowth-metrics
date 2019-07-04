@@ -7,3 +7,5 @@ The input data should have one row per transaction and contain the following col
 CustomerId: the unique id of each customer (string)
 Time: the data for each transaction (datetime)
 Price: the revenue associated to each transaction (float)
+
+The output is a csv-file that summarizes the data month by month, and five png's plotting Acquisition, Retention (churn rate and # churned customers), Monetization (ARPU and LTV), Growth (MRR and Growth rate) and the Forever Transaction Indicator (FT).
