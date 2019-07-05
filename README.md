@@ -1,4 +1,4 @@
-# forever-transaction
+# thegrowth-metrics
 Plot key metrics for Subscription Model Business to determine the 'health' of the subscriber base.
 
 Download the python script, put it in a map together with a 'data' folder, where you add the input data, and an 'output' folder where the plots and csv are saved.
